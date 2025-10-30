@@ -1,0 +1,76 @@
+{
+  "practice.title": "Szakterületek",
+
+  "practice.quote": "Üzletközpontú tanácsadás, precíz végrehajtás — a szerződéstől a bíróságig.",
+
+  "practice.intro": "Szakterületek — áttekintés arról, miben tudunk segíteni.",
+
+  "practice.area.commercial-law.title": "Kereskedelmi jog",
+  "practice.area.commercial-law.item.1": "Szerződések készítése és felülvizsgálata",
+  "practice.area.commercial-law.item.2": "Jogi képviselet peres, nemperes és választottbírósági eljárásokban",
+
+  "practice.area.corporate-ma.title": "Társasági jog és M&A",
+  "practice.area.corporate-ma.item.1": "Cégalapítás és változásbejegyzési eljárások (egyéni vállalkozók is)",
+  "practice.area.corporate-ma.item.2": "Átalakulások, felvásárlások (nemzetközi M&A tranzakciók is), due diligence (teljes vagy red flag riport)",
+  "practice.area.corporate-ma.item.3": "Üzletágak/üzletrészek adásvételi szerződéseinek (SPA) elkészítése és felülvizsgálata",
+  "practice.area.corporate-ma.item.4": "Felszámolási eljárások, önkéntes és kényszer-végelszámolás esetén komplex jogi szolgáltatás, szükség esetén könyvvizsgáló és adószakértő partnerek bevonásával",
+  "practice.area.corporate-ma.item.5": "Társaságok társasági jogi ügyeinek folyamatos és teljes körű adminisztrációja",
+  "practice.area.corporate-ma.item.6": "Külföldi vállalkozások magyarországi fióktelepeinek és közvetlen kereskedelmi képviseleteinek alapítása és képviselete",
+
+  "practice.area.labour-compliance.title": "Munkajog és megfelelés",
+  "practice.area.labour-compliance.item.1": "Munkaszerződések, munkajogi megállapodások (kollektív szerződés, tanulmányi szerződés, versenytilalmi megállapodás stb.), munkáltatói szabályzatok készítése és felülvizsgálata",
+  "practice.area.labour-compliance.item.2": "A munkáltató által készített dokumentumok (szerződések, belső szabályzatok) és a napi működés átfogó vizsgálata, kockázatok feltárása, jogszabályi változások beépítése a napi folyamatokba",
+  "practice.area.labour-compliance.item.3": "Tanácsadás és részvétel munkaviszony megszüntetésével vagy csoportos létszámcsökkentéssel kapcsolatos eljárásokban",
+  "practice.area.labour-compliance.item.4": "Jogi képviselet munkajogi jogvitákban",
+
+  "practice.area.collection.title": "Követeléskezelés",
+  "practice.area.collection.item.1": "Fizetési felszólítások, fizetési meghagyásos, peres, felszámolási és végrehajtási eljárások lefolytatása",
+
+  "practice.area.real-estate.title": "Ingatlanjog",
+  "practice.area.real-estate.item.1": "Beruházásokhoz kapcsolódó komplex jogi munka",
+  "practice.area.real-estate.item.2": "Családi ház, társasházi lakás, mezőgazdasági és egyéb ingatlanok adásvételi (elő)szerződései",
+  "practice.area.real-estate.item.3": "Csere-, ajándékozási-, bérleti-, használati szerződések",
+  "practice.area.real-estate.item.4": "Tartási-, életjáradéki-, öröklési szerződések",
+  "practice.area.real-estate.item.5": "Ingatlanhoz kapcsolódó dologi jogi szerződések készítése, haszonélvezeti jog alapítása és megszüntetése",
+  "practice.area.real-estate.item.6": "Társasház-alapító okirat, szervezeti és működési szabályzat, házirend készítése, módosítása",
+  "practice.area.real-estate.item.7": "Telekalakítás, ingatlan-átminősítés, művelési ágból történő kivonás",
+  "practice.area.real-estate.item.8": "Hatósági ügyintézés a szerződésekhez kapcsolódóan (közigazgatási hatósági és földhivatali eljárások)",
+  "practice.area.real-estate.item.9": "Kisajátítási eljárások",
+  "practice.area.real-estate.item.10": "Jelzálogjog alapítása",
+  "practice.area.real-estate.item.11": "Elővásárlási jog gyakorlásának jogi támogatása",
+
+  "practice.area.family-law.title": "Családjog",
+  "practice.area.family-law.item.1": "Házassági vagyonjogi szerződések (házasságkötés előtt és után)",
+  "practice.area.family-law.item.2": "Képviselet válóperes eljárásokban",
+  "practice.area.family-law.item.3": "Bíróságon kívüli egyezség és peres eljárások lefolytatása házastársi vagyonjogi ügyekben",
+  "practice.area.family-law.item.4": "Képviselet gyermekelhelyezési és kapcsolattartási jogvitákban",
+
+  "practice.area.gdpr-dpo.title": "GDPR, adatvédelem, DPO",
+  "practice.area.gdpr-dpo.item.1": "Vállalatok felkészítése az adatvédelmi szabályoknak való megfelelésre",
+  "practice.area.gdpr-dpo.item.2": "Adatvédelmi tanácsadás",
+  "practice.area.gdpr-dpo.item.3": "Adatvédelmi tájékoztatók, szabályzatok, eljárások elkészítése",
+  "practice.area.gdpr-dpo.item.4": "Érdekmérlegelési teszt elkészítése",
+  "practice.area.gdpr-dpo.item.5": "Munkahelyi adatvédelem: felvétel előtti adatkezelés, munkáltatói ellenőrzések, megőrzési lehetőségek és kötelezettségek, adattovábbítás",
+  "practice.area.gdpr-dpo.item.6": "Részvétel belső adatvédelmi ellenőrzésekben",
+  "practice.area.gdpr-dpo.item.7": "Külső adatvédelmi audit lefolytatása (adatkezelési tevékenységek feltérképezése, gyakorlatok átvilágítása, megfelelőség vizsgálata, szükséges intézkedések javaslata)",
+  "practice.area.gdpr-dpo.item.8": "Marketing, e-kereskedelem, weboldalak adatvédelmi kérdései, cookie-tájékoztatók, ÁSZF",
+  "practice.area.gdpr-dpo.item.9": "Weboldalak és webáruházak adatkezelésének felülvizsgálata, szükséges dokumentumok elkészítése",
+  "practice.area.gdpr-dpo.item.10": "Szoftverek és alkalmazások adatvédelmi kérdései",
+  "practice.area.gdpr-dpo.item.11": "Adatvédelmi incidensek kezelése és bejelentése",
+  "practice.area.gdpr-dpo.item.12": "Adatvédelmi tisztviselő (DPO) tevékenység, folyamatos rendelkezésre állás",
+  "practice.area.gdpr-dpo.item.13": "Együttműködés NAIH-eljárások során",
+  "practice.area.gdpr-dpo.item.14": "Közérdekű adatigénylések",
+  "practice.area.gdpr-dpo.item.15": "Peres képviselet személyiségi jogi jogsértések miatti perekben",
+
+  "practice.area.it-software.title": "IT és szoftverjog",
+  "practice.area.it-software.item.1": "Szoftverfejlesztési, támogatási, licenc- és jogátruházási szerződések készítése és felülvizsgálata",
+  "practice.area.it-software.item.2": "Tervezett vagy már megvalósított (internet) üzleti modellek jogszabályi megfelelőségének vizsgálata, szükség szerinti tanácsadás",
+  "practice.area.it-software.item.3": "Jogi képviselet bírósági és bíróságon kívüli eljárásokban",
+
+  "practice.area.other.title": "Egyéb területek",
+  "practice.area.other.item.1": "Adójog, tanácsadás és képviselet adóhatósági eljárásokban és adóperekben",
+  "practice.area.other.item.2": "Gyógyszertárak jogi képviselete és teljes körű jogi szolgáltatás üzletrész-adásvétel (SPA) esetén",
+  "practice.area.other.item.3": "Szerzői jog",
+  "practice.area.other.item.4": "Civil szervezetek alapítása, módosítása, képviselete; belső szabályzatok készítése; közgyűlések lefolytatása",
+  "practice.area.other.item.5": "Gazdasági büntetőjog"
+}

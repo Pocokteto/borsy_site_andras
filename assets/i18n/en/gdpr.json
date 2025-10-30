@@ -1,0 +1,22 @@
+{
+          "gdpr.title": "GDPR",
+      "gdpr.lead.1":
+        "Since 25 May 2018, the EU’s GDPR has imposed unified and strict rules on personal data processing.",
+      "gdpr.lead.2":
+        "It applies to all businesses operating in the EU and puts strong emphasis on data and IT security.",
+      "gdpr.lead.3":
+        "Our firm has supported clients from day one; we also act as DPO for several clients.",
+      "gdpr.lead.4":
+        "Waiting risks fines; over-engineering wastes resources — we focus on practical, proportionate solutions.",
+      "gdpr.services.title": "Our GDPR & Data Protection Services",
+      "gdpr.s.audit":
+        "Audit: compliance assessment and identification of required policies and controls.",
+      "gdpr.s.implement":
+        "Implementation: drafting and updating policies, contracts, and T&Cs to meet GDPR.",
+      "gdpr.s.terms":
+        "Contractual annexes: privacy, processing and infosec clauses prepared as mandatory attachments.",
+      "gdpr.s.training":
+        "Training: in-person sessions and learning materials for current and future employees.",
+      "gdpr.s.support":
+        "Support: ongoing advice; document updates per case-law and regulatory changes."
+}
